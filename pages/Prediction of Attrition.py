@@ -1,1 +1,0 @@
-st.title("Prediction of Attrition")
