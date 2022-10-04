@@ -1,5 +1,0 @@
-pydeck
-numpy
-pandas
-altair
-matplotlib
