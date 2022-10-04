@@ -1,7 +1,0 @@
-pydeck
-numpy
-pandas
-altair
-matplotlib
-plotly
-plotly-express
