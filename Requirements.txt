@@ -1,4 +1,0 @@
-pydeck
-numpy
-pandas
-altair
