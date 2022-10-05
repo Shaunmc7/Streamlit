@@ -1,0 +1,7 @@
+pydeck
+numpy
+pandas
+altair
+matplotlib==3.4
+plotly==5.10.0
+plotly-express==0.4.1
